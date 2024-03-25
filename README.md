@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Olá 👋
+Sou alguém que ama aprender e expandir meu horizonte de conhecimento. Minha curiosidade é insaciável, sempre me impulsionando a explorar novas ideias, conceitos e experiências. Tenho uma abordagem analítica para entender o mundo ao meu redor, desmembrando problemas complexos em partes menores para encontrar soluções. Além disso, minha resiliência me permite enfrentar desafios de frente, adaptando-me e crescendo com as adversidades. Estou constantemente buscando oportunidades para crescer pessoalmente e profissionalmente, e estou ansiosa para as descobertas que o futuro reserva para mim.
 <!--
 **Andreia-Soares/Andreia-Soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
